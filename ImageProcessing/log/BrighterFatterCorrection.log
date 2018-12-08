@@ -1,0 +1,537 @@
+[NbConvertApp] Converting notebook BrighterFatterCorrection.ipynb to notebook
+[NbConvertApp] Executing notebook with kernel: lsst
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 933 positive peaks in 126 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 126 sources (126 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=105.18
+characterizeImage.measurement INFO: Measuring 126 sources (126 parents, 0 children) 
+calibrate.detection INFO: Detected 983 positive peaks in 137 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 137 sources (137 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 120 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 10 iterations
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 3 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 95 positive peaks in 65 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 65 sources (65 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=7.84
+characterizeImage.measurement INFO: Measuring 65 sources (65 parents, 0 children) 
+calibrate.detection INFO: Detected 124 positive peaks in 73 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 73 sources (73 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 45 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 4 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 159 positive peaks in 75 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 75 sources (75 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=10.32
+characterizeImage.measurement INFO: Measuring 75 sources (75 parents, 0 children) 
+calibrate.detection INFO: Detected 211 positive peaks in 85 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 85 sources (85 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 57 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 5 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 258 positive peaks in 86 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 86 sources (86 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=16.04
+characterizeImage.measurement INFO: Measuring 86 sources (86 parents, 0 children) 
+calibrate.detection INFO: Detected 307 positive peaks in 97 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 97 sources (97 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 70 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 5 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 347 positive peaks in 93 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 93 sources (93 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=23.24
+characterizeImage.measurement INFO: Measuring 93 sources (93 parents, 0 children) 
+calibrate.detection INFO: Detected 389 positive peaks in 102 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 102 sources (102 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 78 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 6 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 407 positive peaks in 93 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 93 sources (93 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=29.31
+characterizeImage.measurement INFO: Measuring 93 sources (93 parents, 0 children) 
+calibrate.detection INFO: Detected 466 positive peaks in 106 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 106 sources (106 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 80 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 6 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 463 positive peaks in 96 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 96 sources (96 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=29.00
+characterizeImage.measurement INFO: Measuring 96 sources (96 parents, 0 children) 
+calibrate.detection INFO: Detected 548 positive peaks in 112 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 112 sources (112 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 85 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 7 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 549 positive peaks in 100 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 100 sources (100 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=32.90
+characterizeImage.measurement INFO: Measuring 100 sources (100 parents, 0 children) 
+calibrate.detection INFO: Detected 626 positive peaks in 115 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 115 sources (115 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 90 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 7 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 594 positive peaks in 104 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 104 sources (104 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=45.51
+characterizeImage.measurement INFO: Measuring 104 sources (104 parents, 0 children) 
+calibrate.detection INFO: Detected 654 positive peaks in 118 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 118 sources (118 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 97 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 8 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 643 positive peaks in 107 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 107 sources (107 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=48.56
+characterizeImage.measurement INFO: Measuring 107 sources (107 parents, 0 children) 
+calibrate.detection INFO: Detected 694 positive peaks in 118 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 118 sources (118 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 102 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 8 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 688 positive peaks in 110 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 110 sources (110 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=54.26
+characterizeImage.measurement INFO: Measuring 110 sources (110 parents, 0 children) 
+calibrate.detection INFO: Detected 739 positive peaks in 124 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 124 sources (124 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 106 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 9 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 712 positive peaks in 111 footprints and 1 negative peaks in 1 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 111 sources (111 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=58.43
+characterizeImage.measurement INFO: Measuring 111 sources (111 parents, 0 children) 
+calibrate.detection INFO: Detected 763 positive peaks in 123 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 123 sources (123 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 108 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 9 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 743 positive peaks in 114 footprints and 5 negative peaks in 3 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 114 sources (114 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=62.32
+characterizeImage.measurement INFO: Measuring 114 sources (114 parents, 0 children) 
+calibrate.detection INFO: Detected 788 positive peaks in 124 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 124 sources (124 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 111 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 9 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 764 positive peaks in 116 footprints and 7 negative peaks in 6 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 116 sources (116 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=69.77
+characterizeImage.measurement INFO: Measuring 116 sources (116 parents, 0 children) 
+calibrate.detection INFO: Detected 807 positive peaks in 127 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 127 sources (127 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 113 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 9 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 817 positive peaks in 119 footprints and 7 negative peaks in 4 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 119 sources (119 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=75.42
+characterizeImage.measurement INFO: Measuring 119 sources (119 parents, 0 children) 
+calibrate.detection INFO: Detected 860 positive peaks in 130 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 130 sources (130 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 116 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 9 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 834 positive peaks in 119 footprints and 16 negative peaks in 11 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 119 sources (119 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=80.84
+characterizeImage.measurement INFO: Measuring 119 sources (119 parents, 0 children) 
+calibrate.detection INFO: Detected 880 positive peaks in 131 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 131 sources (131 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 115 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 9 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 842 positive peaks in 120 footprints and 21 negative peaks in 12 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 120 sources (120 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=85.24
+characterizeImage.measurement INFO: Measuring 120 sources (120 parents, 0 children) 
+calibrate.detection INFO: Detected 898 positive peaks in 134 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 134 sources (134 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 117 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 9 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 879 positive peaks in 120 footprints and 25 negative peaks in 15 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 120 sources (120 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=94.47
+characterizeImage.measurement INFO: Measuring 120 sources (120 parents, 0 children) 
+calibrate.detection INFO: Detected 941 positive peaks in 132 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 132 sources (132 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 116 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 9 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 917 positive peaks in 123 footprints and 28 negative peaks in 13 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 123 sources (123 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=96.73
+characterizeImage.measurement INFO: Measuring 123 sources (123 parents, 0 children) 
+calibrate.detection INFO: Detected 948 positive peaks in 135 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 135 sources (135 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 120 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 10 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 933 positive peaks in 126 footprints and 31 negative peaks in 17 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 126 sources (126 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=99.93
+characterizeImage.measurement INFO: Measuring 126 sources (126 parents, 0 children) 
+calibrate.detection INFO: Detected 981 positive peaks in 141 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 141 sources (141 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 122 sources
+isr INFO: Applying brighter fatter correction
+isr INFO: Finished brighter fatter in 10 iterations
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 937 positive peaks in 126 footprints and 42 negative peaks in 18 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 126 sources (126 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=105.17
+characterizeImage.measurement INFO: Measuring 126 sources (126 parents, 0 children) 
+calibrate.detection INFO: Detected 987 positive peaks in 137 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 137 sources (137 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 120 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 95 positive peaks in 65 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 65 sources (65 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=7.84
+characterizeImage.measurement INFO: Measuring 65 sources (65 parents, 0 children) 
+calibrate.detection INFO: Detected 123 positive peaks in 73 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 73 sources (73 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 45 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 158 positive peaks in 75 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 75 sources (75 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=10.31
+characterizeImage.measurement INFO: Measuring 75 sources (75 parents, 0 children) 
+calibrate.detection INFO: Detected 210 positive peaks in 85 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 85 sources (85 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 57 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 258 positive peaks in 86 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 86 sources (86 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=16.04
+characterizeImage.measurement INFO: Measuring 86 sources (86 parents, 0 children) 
+calibrate.detection INFO: Detected 307 positive peaks in 97 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 97 sources (97 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 70 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 347 positive peaks in 93 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 93 sources (93 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=23.23
+characterizeImage.measurement INFO: Measuring 93 sources (93 parents, 0 children) 
+calibrate.detection INFO: Detected 390 positive peaks in 103 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 103 sources (103 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 79 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 405 positive peaks in 93 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 93 sources (93 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=29.31
+characterizeImage.measurement INFO: Measuring 93 sources (93 parents, 0 children) 
+calibrate.detection INFO: Detected 464 positive peaks in 106 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 106 sources (106 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 80 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 462 positive peaks in 96 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 96 sources (96 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=29.00
+characterizeImage.measurement INFO: Measuring 96 sources (96 parents, 0 children) 
+calibrate.detection INFO: Detected 547 positive peaks in 112 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 112 sources (112 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 85 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 547 positive peaks in 100 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 100 sources (100 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=32.90
+characterizeImage.measurement INFO: Measuring 100 sources (100 parents, 0 children) 
+calibrate.detection INFO: Detected 624 positive peaks in 115 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 115 sources (115 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 90 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 592 positive peaks in 104 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 104 sources (104 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=45.52
+characterizeImage.measurement INFO: Measuring 104 sources (104 parents, 0 children) 
+calibrate.detection INFO: Detected 652 positive peaks in 119 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 119 sources (119 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 98 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 641 positive peaks in 107 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 107 sources (107 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=48.56
+characterizeImage.measurement INFO: Measuring 107 sources (107 parents, 0 children) 
+calibrate.detection INFO: Detected 694 positive peaks in 118 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 118 sources (118 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 102 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 686 positive peaks in 110 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 110 sources (110 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=54.26
+characterizeImage.measurement INFO: Measuring 110 sources (110 parents, 0 children) 
+calibrate.detection INFO: Detected 739 positive peaks in 125 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 125 sources (125 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 107 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 708 positive peaks in 111 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 111 sources (111 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=58.43
+characterizeImage.measurement INFO: Measuring 111 sources (111 parents, 0 children) 
+calibrate.detection INFO: Detected 761 positive peaks in 123 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 123 sources (123 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 108 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 739 positive peaks in 114 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 114 sources (114 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=62.32
+characterizeImage.measurement INFO: Measuring 114 sources (114 parents, 0 children) 
+calibrate.detection INFO: Detected 784 positive peaks in 124 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 124 sources (124 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 111 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 759 positive peaks in 116 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 116 sources (116 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=69.77
+characterizeImage.measurement INFO: Measuring 116 sources (116 parents, 0 children) 
+calibrate.detection INFO: Detected 802 positive peaks in 127 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 127 sources (127 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 113 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 812 positive peaks in 119 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 119 sources (119 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=75.42
+characterizeImage.measurement INFO: Measuring 119 sources (119 parents, 0 children) 
+calibrate.detection INFO: Detected 856 positive peaks in 130 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 130 sources (130 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 116 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 829 positive peaks in 119 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 119 sources (119 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=80.84
+characterizeImage.measurement INFO: Measuring 119 sources (119 parents, 0 children) 
+calibrate.detection INFO: Detected 876 positive peaks in 131 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 131 sources (131 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 115 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 834 positive peaks in 120 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 120 sources (120 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=85.15
+characterizeImage.measurement INFO: Measuring 120 sources (120 parents, 0 children) 
+calibrate.detection INFO: Detected 890 positive peaks in 134 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 134 sources (134 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 117 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 873 positive peaks in 120 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 120 sources (120 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=94.47
+characterizeImage.measurement INFO: Measuring 120 sources (120 parents, 0 children) 
+calibrate.detection INFO: Detected 937 positive peaks in 133 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 133 sources (133 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 117 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 913 positive peaks in 123 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 123 sources (123 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=96.85
+characterizeImage.measurement INFO: Measuring 123 sources (123 parents, 0 children) 
+calibrate.detection INFO: Detected 925 positive peaks in 134 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 134 sources (134 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 119 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 929 positive peaks in 126 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 126 sources (126 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=99.91
+characterizeImage.measurement INFO: Measuring 126 sources (126 parents, 0 children) 
+calibrate.detection INFO: Detected 977 positive peaks in 141 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 141 sources (141 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 121 sources
+characterizeImage WARN: Source catalog detected and measured with placeholder or default PSF
+characterizeImage.background WARN: Too few points in grid to constrain fit: min(nx, ny) < approxOrder) [min(4, 4) < 6]
+characterizeImage.background WARN: Reducing approxOrder to 3
+characterizeImage.detection INFO: Detected 933 positive peaks in 126 footprints and 0 negative peaks in 0 footprints to 50 sigma
+characterizeImage.detection INFO: Resubtracting the background after object detection
+characterizeImage.measurement INFO: Measuring 126 sources (126 parents, 0 children) 
+characterizeImage INFO: iter 1; PSF sigma=0.00, dimensions=(11, 11); median background=105.18
+characterizeImage.measurement INFO: Measuring 126 sources (126 parents, 0 children) 
+calibrate.detection INFO: Detected 983 positive peaks in 137 footprints and 0 negative peaks in 0 footprints to 5 sigma
+calibrate.detection INFO: Resubtracting the background after object detection
+calibrate.measurement INFO: Measuring 137 sources (137 parents, 0 children) 
+calibrate INFO: Copying flags from icSourceCat to sourceCat for 120 sources
+[NbConvertApp] Writing 1077976 bytes to BrighterFatterCorrection.nbconvert.ipynb

@@ -1,0 +1,44 @@
+[NbConvertApp] Converting notebook lsst_stack_deblender.ipynb to notebook
+[NbConvertApp] Executing notebook with kernel: lsst
+[NbConvertApp] ERROR | Error while converting 'lsst_stack_deblender.ipynb'
+Traceback (most recent call last):
+  File "/opt/rh/rh-python36/root/usr/lib/python3.6/site-packages/nbconvert/nbconvertapp.py", line 407, in export_single_notebook
+    output, resources = self.exporter.from_filename(notebook_filename, resources=resources)
+  File "/opt/rh/rh-python36/root/usr/lib/python3.6/site-packages/nbconvert/exporters/exporter.py", line 178, in from_filename
+    return self.from_file(f, resources=resources, **kw)
+  File "/opt/rh/rh-python36/root/usr/lib/python3.6/site-packages/nbconvert/exporters/exporter.py", line 196, in from_file
+    return self.from_notebook_node(nbformat.read(file_stream, as_version=4), resources=resources, **kw)
+  File "/opt/rh/rh-python36/root/usr/lib/python3.6/site-packages/nbconvert/exporters/notebook.py", line 32, in from_notebook_node
+    nb_copy, resources = super(NotebookExporter, self).from_notebook_node(nb, resources, **kw)
+  File "/opt/rh/rh-python36/root/usr/lib/python3.6/site-packages/nbconvert/exporters/exporter.py", line 138, in from_notebook_node
+    nb_copy, resources = self._preprocess(nb_copy, resources)
+  File "/opt/rh/rh-python36/root/usr/lib/python3.6/site-packages/nbconvert/exporters/exporter.py", line 315, in _preprocess
+    nbc, resc = preprocessor(nbc, resc)
+  File "/opt/rh/rh-python36/root/usr/lib/python3.6/site-packages/nbconvert/preprocessors/base.py", line 47, in __call__
+    return self.preprocess(nb, resources)
+  File "/opt/rh/rh-python36/root/usr/lib/python3.6/site-packages/nbconvert/preprocessors/execute.py", line 361, in preprocess
+    nb, resources = super(ExecutePreprocessor, self).preprocess(nb, resources)
+  File "/opt/rh/rh-python36/root/usr/lib/python3.6/site-packages/nbconvert/preprocessors/base.py", line 69, in preprocess
+    nb.cells[index], resources = self.preprocess_cell(cell, resources, index)
+  File "/opt/rh/rh-python36/root/usr/lib/python3.6/site-packages/nbconvert/preprocessors/execute.py", line 385, in preprocess_cell
+    raise CellExecutionError.from_cell_and_msg(cell, out)
+nbconvert.preprocessors.execute.CellExecutionError: An error occurred while executing the following cell:
+------------------
+import numpy as np
+from lsst.daf.persistence import Butler
+from lsst.geom import Box2I, Box2D, Point2I, Point2D, Extent2I, Extent2D
+from lsst.afw.image import Exposure, Image, PARENT, MultibandExposure, MultibandImage
+from lsst.afw.detection import MultibandFootprint
+------------------
+
+[0;31m---------------------------------------------------------------------------[0m
+[0;31mImportError[0m                               Traceback (most recent call last)
+[0;32m<ipython-input-1-06fb0a82d372>[0m in [0;36m<module>[0;34m[0m
+[1;32m      2[0m [0;32mfrom[0m [0mlsst[0m[0;34m.[0m[0mdaf[0m[0;34m.[0m[0mpersistence[0m [0;32mimport[0m [0mButler[0m[0;34m[0m[0m
+[1;32m      3[0m [0;32mfrom[0m [0mlsst[0m[0;34m.[0m[0mgeom[0m [0;32mimport[0m [0mBox2I[0m[0;34m,[0m [0mBox2D[0m[0;34m,[0m [0mPoint2I[0m[0;34m,[0m [0mPoint2D[0m[0;34m,[0m [0mExtent2I[0m[0;34m,[0m [0mExtent2D[0m[0;34m[0m[0m
+[0;32m----> 4[0;31m [0;32mfrom[0m [0mlsst[0m[0;34m.[0m[0mafw[0m[0;34m.[0m[0mimage[0m [0;32mimport[0m [0mExposure[0m[0;34m,[0m [0mImage[0m[0;34m,[0m [0mPARENT[0m[0;34m,[0m [0mMultibandExposure[0m[0;34m,[0m [0mMultibandImage[0m[0;34m[0m[0m
+[0m[1;32m      5[0m [0;32mfrom[0m [0mlsst[0m[0;34m.[0m[0mafw[0m[0;34m.[0m[0mdetection[0m [0;32mimport[0m [0mMultibandFootprint[0m[0;34m[0m[0m
+
+[0;31mImportError[0m: cannot import name 'MultibandExposure'
+ImportError: cannot import name 'MultibandExposure'
+

@@ -1,0 +1,6 @@
+[NbConvertApp] Converting notebook image_quality_demo.ipynb to notebook
+[NbConvertApp] Executing notebook with kernel: lsst
+CameraMapper INFO: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+CameraMapper INFO: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+CameraMapper INFO: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+[NbConvertApp] Writing 569374 bytes to image_quality_demo.nbconvert.ipynb

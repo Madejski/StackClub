@@ -1,0 +1,6 @@
+[NbConvertApp] Converting notebook Calexp_guided_tour.ipynb to notebook
+[NbConvertApp] Executing notebook with kernel: lsst
+CameraMapper INFO: Loading exposure registry from /project/shared/data/Twinkles_subset/input_data_v2/registry.sqlite3
+HscMapper WARN: Unable to find calib root directory
+CameraMapper INFO: Loading Posix exposure registry from /project/shared/data/with-globular
+[NbConvertApp] Writing 838871 bytes to Calexp_guided_tour.nbconvert.ipynb

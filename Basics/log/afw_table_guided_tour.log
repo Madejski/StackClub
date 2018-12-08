@@ -1,0 +1,4 @@
+[NbConvertApp] Converting notebook afw_table_guided_tour.ipynb to notebook
+[NbConvertApp] Executing notebook with kernel: lsst
+CameraMapper INFO: Loading exposure registry from /project/shared/data/Twinkles_subset/input_data_v2/registry.sqlite3
+[NbConvertApp] Writing 499706 bytes to afw_table_guided_tour.nbconvert.ipynb
